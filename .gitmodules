@@ -1,3 +1,6 @@
 [submodule ".\\my_plugins\\vim-dirdiff"]
 	path = .\\my_plugins\\vim-dirdiff
 	url = https://github.com/will133/vim-dirdiff
+[submodule ".\\my_plugins\\vim-ps1"]
+	path = .\\my_plugins\\vim-ps1
+	url = https://github.com/PProvost/vim-ps1.git
