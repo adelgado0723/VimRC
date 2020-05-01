@@ -19,6 +19,8 @@ au FileType c setlocal foldmethod=syntax
 au FileType cpp setlocal foldmethod=syntax
 au FileType h setlocal foldmethod=syntax
 
+" Open Documents Completely Unfolded
+set foldlevel=99
 
 " Tab Shortcuts
 nnoremap tn :tabnew<Space>
